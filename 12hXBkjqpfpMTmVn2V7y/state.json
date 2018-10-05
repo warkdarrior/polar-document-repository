@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "types": {
+        "id": "types",
+        "label": "types"
+      },
+      "quantitative": {
+        "id": "quantitative",
+        "label": "quantitative"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12hXBkjqpfpMTmVn2V7y",
+    "added": "2018-10-05T18:37:51.162Z",
+    "filename": "The_Syntax_and_Semantics_of_Quantitative_Type_Theory.phz",
+    "lastUpdated": "2018-10-05T18:38:06.189Z",
+    "title": "The Syntax and Semantics of Quantitative Type Theory",
+    "url": "https://bentnib.org/quantitative-type-theory.html"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

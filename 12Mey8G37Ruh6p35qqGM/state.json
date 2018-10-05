@@ -1,0 +1,56 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "malware": {
+        "id": "malware",
+        "label": "malware"
+      },
+      "detection": {
+        "id": "detection",
+        "label": "detection"
+      },
+      "attack": {
+        "id": "attack",
+        "label": "attack"
+      },
+      "system_call": {
+        "id": "system_call",
+        "label": "system_call"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12Mey8G37Ruh6p35qqGM",
+    "added": "2018-10-05T16:26:26.083Z",
+    "filename": "_1804_08778v1__Low_Resource_Black_Box_End_to_End_Attack_Against_State_of_the_Art_API_Call_Based_Malware_Classifiers.phz",
+    "lastUpdated": "2018-10-05T16:27:14.076Z",
+    "title": "[1804.08778v1] Low Resource Black-Box End-to-End Attack Against State of the Art API Call Based Malware Classifiers",
+    "url": "https://arxiv.org/abs/1804.08778v1"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

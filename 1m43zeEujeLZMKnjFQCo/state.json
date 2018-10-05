@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      },
+      "competition": {
+        "id": "competition",
+        "label": "competition"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1m43zeEujeLZMKnjFQCo",
+    "added": "2018-10-05T16:58:38.248Z",
+    "filename": "_1804_00097__Adversarial_Attacks_and_Defences_Competition.phz",
+    "lastUpdated": "2018-10-05T16:58:58.152Z",
+    "title": "[1804.00097] Adversarial Attacks and Defences Competition",
+    "url": "https://arxiv.org/abs/1804.00097"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

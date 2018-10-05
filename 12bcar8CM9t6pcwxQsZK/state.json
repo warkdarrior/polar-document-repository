@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "verifiable_computation": {
+        "id": "verifiable_computation",
+        "label": "verifiable_computation"
+      },
+      "secure_deletion": {
+        "id": "secure_deletion",
+        "label": "secure_deletion"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12bcar8CM9t6pcwxQsZK",
+    "added": "2018-10-05T18:29:06.918Z",
+    "filename": "ERASER__Your_Data_Won_t_Be_Back___wkr.phz",
+    "lastUpdated": "2018-10-05T18:29:44.373Z",
+    "title": "ERASER: Your Data Won't Be Back — wkr",
+    "url": "https://wkr.io/publications/eurosp2018eraser/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

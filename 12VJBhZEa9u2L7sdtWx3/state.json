@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "IoT": {
+        "id": "IoT",
+        "label": "IoT"
+      },
+      "architecture": {
+        "id": "architecture",
+        "label": "architecture"
+      },
+      "isolation": {
+        "id": "isolation",
+        "label": "isolation"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12VJBhZEa9u2L7sdtWx3",
+    "added": "2018-10-05T18:32:42.359Z",
+    "filename": "Have_Your_PI_and_Eat_it_Too__Practical_Security_on_a_Low_Cost_Ubiquitous_Computing_Platform___IEEE_Conference_Publication.phz",
+    "lastUpdated": "2018-10-05T18:33:16.104Z",
+    "title": "Have Your PI and Eat it Too: Practical Security on a Low-Cost Ubiquitous Computing Platform - IEEE Conference Publication",
+    "url": "https://ieeexplore.ieee.org/document/8406599"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

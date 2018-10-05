@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "computation_on_encrypted_data": {
+        "id": "computation_on_encrypted_data",
+        "label": "computation_on_encrypted_data"
+      },
+      "verifiable_computation": {
+        "id": "verifiable_computation",
+        "label": "verifiable_computation"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12QsKsPpEhT55nqZmzsn",
+    "added": "2018-10-05T16:30:43.365Z",
+    "filename": "Cryptology_ePrint_Archive__Report_2014_202___Efficiently_Verifiable_Computation_on_Encrypted_Data.phz",
+    "lastUpdated": "2018-10-05T16:31:12.023Z",
+    "title": "Cryptology ePrint Archive: Report 2014/202 - Efficiently Verifiable Computation on Encrypted Data",
+    "url": "https://eprint.iacr.org/2014/202"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

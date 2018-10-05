@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "IoT": {
+        "id": "IoT",
+        "label": "IoT"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "SDN": {
+        "id": "SDN",
+        "label": "SDN"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "17DPsLGjkFGSHqjcztDo",
+    "added": "2018-10-05T16:53:32.136Z",
+    "filename": "_1803_05022__Securing_the_Internet_of_Things_in_the_Age_of_Machine_Learning_and_Software_defined_Networking.phz",
+    "lastUpdated": "2018-10-05T16:53:56.665Z",
+    "title": "[1803.05022] Securing the Internet of Things in the Age of Machine Learning and Software-defined Networking",
+    "url": "https://arxiv.org/abs/1803.05022"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

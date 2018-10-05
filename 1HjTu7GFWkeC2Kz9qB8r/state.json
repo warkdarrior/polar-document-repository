@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "interpretability": {
+        "id": "interpretability",
+        "label": "interpretability"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1HjTu7GFWkeC2Kz9qB8r",
+    "added": "2018-10-05T16:32:46.812Z",
+    "filename": "LIME___Local_Interpretable_Model_Agnostic_Explanations___Marco_Tulio_Ribeiro__.phz",
+    "lastUpdated": "2018-10-05T16:33:00.039Z",
+    "title": "LIME - Local Interpretable Model-Agnostic Explanations – Marco Tulio Ribeiro –",
+    "url": "https://homes.cs.washington.edu/~marcotcr/blog/lime/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

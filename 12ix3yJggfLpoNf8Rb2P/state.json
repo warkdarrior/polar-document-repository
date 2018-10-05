@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "privacy": {
+        "id": "privacy",
+        "label": "privacy"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "as_as_service": {
+        "id": "as_as_service",
+        "label": "as_as_service"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12ix3yJggfLpoNf8Rb2P",
+    "added": "2018-10-05T16:57:52.618Z",
+    "filename": "_1803_05961__Chiron__Privacy_preserving_Machine_Learning_as_a_Service.phz",
+    "lastUpdated": "2018-10-05T16:58:09.238Z",
+    "title": "[1803.05961] Chiron: Privacy-preserving Machine Learning as a Service",
+    "url": "https://arxiv.org/abs/1803.05961"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

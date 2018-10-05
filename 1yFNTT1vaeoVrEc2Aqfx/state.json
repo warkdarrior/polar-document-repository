@@ -1,0 +1,52 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "data_protection": {
+        "id": "data_protection",
+        "label": "data_protection"
+      },
+      "architecture": {
+        "id": "architecture",
+        "label": "architecture"
+      },
+      "gpu": {
+        "id": "gpu",
+        "label": "gpu"
+      },
+      "selective_encryption": {
+        "id": "selective_encryption",
+        "label": "selective_encryption"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1yFNTT1vaeoVrEc2Aqfx",
+    "added": "2018-10-05T16:52:24.314Z",
+    "filename": "_1803_04880__An_Efficient_Data_Protection_Architecture_Based_on_Fragmentation_and_Encryption.phz",
+    "lastUpdated": "2018-10-05T16:53:00.083Z",
+    "title": "[1803.04880] An Efficient Data Protection Architecture Based on Fragmentation and Encryption",
+    "url": "https://arxiv.org/abs/1803.04880"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

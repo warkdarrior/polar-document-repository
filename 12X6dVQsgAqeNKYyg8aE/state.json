@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "interpretability": {
+        "id": "interpretability",
+        "label": "interpretability"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12X6dVQsgAqeNKYyg8aE",
+    "added": "2018-10-05T16:31:45.388Z",
+    "filename": "_1602_04938v1___Why_Should_I_Trust_You____Explaining_the_Predictions_of_Any_Classifier.phz",
+    "lastUpdated": "2018-10-05T16:32:26.318Z",
+    "title": "[1602.04938v1] \"Why Should I Trust You?\": Explaining the Predictions of Any Classifier",
+    "url": "https://arxiv.org/abs/1602.04938v1"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

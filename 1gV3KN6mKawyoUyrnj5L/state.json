@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "algorithm": {
+        "id": "algorithm",
+        "label": "algorithm"
+      },
+      "automata": {
+        "id": "automata",
+        "label": "automata"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1gV3KN6mKawyoUyrnj5L",
+    "added": "2018-10-05T16:17:10.072Z",
+    "filename": "Levenshtein_Automata__2010____Hacker_News.phz",
+    "lastUpdated": "2018-10-05T16:17:32.641Z",
+    "title": "Levenshtein Automata (2010) | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=17907712"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

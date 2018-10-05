@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "causal_inference": {
+        "id": "causal_inference",
+        "label": "causal_inference"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "121Waaqi2G7XA5QsSEg3",
+    "added": "2018-10-05T17:04:51.109Z",
+    "filename": "ML_beyond_Curve_Fitting__An_Intro_to_Causal_Inference_and_do_Calculus.phz",
+    "lastUpdated": "2018-10-05T17:05:09.919Z",
+    "title": "ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus",
+    "url": "https://www.inference.vc/untitled/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "malware": {
+        "id": "malware",
+        "label": "malware"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "bias": {
+        "id": "bias",
+        "label": "bias"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "13BEH8bTCHRpcG7rkAfS",
+    "added": "2018-10-05T17:02:34.731Z",
+    "filename": "_1807_07838__TESSERACT__Eliminating_Experimental_Bias_in_Malware_Classification_across_Space_and_Time.phz",
+    "lastUpdated": "2018-10-05T17:02:46.548Z",
+    "title": "[1807.07838] TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time",
+    "url": "https://arxiv.org/abs/1807.07838"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

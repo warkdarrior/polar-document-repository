@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "information_flow": {
+        "id": "information_flow",
+        "label": "information_flow"
+      },
+      "types": {
+        "id": "types",
+        "label": "types"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12JSz4imbwNLHL6e63yY",
+    "added": "2018-10-05T16:51:11.653Z",
+    "filename": "_1805_00120v1__Types_for_Information_Flow_Control__Labeling_Granularity_and_Semantic_Models.phz",
+    "lastUpdated": "2018-10-05T16:51:27.479Z",
+    "title": "[1805.00120v1] Types for Information Flow Control: Labeling Granularity and Semantic Models",
+    "url": "https://arxiv.org/abs/1805.00120v1"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

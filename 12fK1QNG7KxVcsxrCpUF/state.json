@@ -1,0 +1,52 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "malware": {
+        "id": "malware",
+        "label": "malware"
+      },
+      "detection": {
+        "id": "detection",
+        "label": "detection"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "deep_neural_network": {
+        "id": "deep_neural_network",
+        "label": "deep_neural_network"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12fK1QNG7KxVcsxrCpUF",
+    "added": "2018-10-05T18:30:39.704Z",
+    "filename": "_DeepRefiner__Multi_layer_android_malware_detection_system_applying_deep_neural_networks__by_Ke_XU.phz",
+    "lastUpdated": "2018-10-05T18:30:51.500Z",
+    "title": "\"DeepRefiner: Multi-layer android malware detection system applying deep neural networks\" by Ke XU",
+    "url": "https://works.bepress.com/robert-deng/27/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

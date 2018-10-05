@@ -1,0 +1,52 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "architecture": {
+        "id": "architecture",
+        "label": "architecture"
+      },
+      "trusted_execution_environment": {
+        "id": "trusted_execution_environment",
+        "label": "trusted_execution_environment"
+      },
+      "AMD_SEV": {
+        "id": "AMD_SEV",
+        "label": "AMD_SEV"
+      },
+      "attack": {
+        "id": "attack",
+        "label": "attack"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12HF2NKTyAd5ivZpzzix",
+    "added": "2018-10-05T17:03:53.993Z",
+    "filename": "AMD_SEV_attack_surface__a_tale_of_too_much_trust.phz",
+    "lastUpdated": "2018-10-05T17:04:22.682Z",
+    "title": "AMD SEV attack surface: a tale of too much trust",
+    "url": "https://nebelwelt.net/blog/20160922-AMD-SEV-attack-surface.html"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

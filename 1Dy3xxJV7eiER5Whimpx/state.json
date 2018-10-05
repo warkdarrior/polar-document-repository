@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "algorithm": {
+        "id": "algorithm",
+        "label": "algorithm"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1Dy3xxJV7eiER5Whimpx",
+    "added": "2018-10-05T16:19:42.912Z",
+    "filename": "_1603_02754__XGBoost__A_Scalable_Tree_Boosting_System.phz",
+    "lastUpdated": "2018-10-05T16:21:11.568Z",
+    "title": "[1603.02754] XGBoost: A Scalable Tree Boosting System",
+    "url": "https://arxiv.org/abs/1603.02754"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

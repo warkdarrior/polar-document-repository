@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "interpretation": {
+        "id": "interpretation",
+        "label": "interpretation"
+      },
+      "systems": {
+        "id": "systems",
+        "label": "systems"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1bPT6pPQ5a2k6CH2KXp6",
+    "added": "2018-10-05T18:27:32.496Z",
+    "filename": "Department_of_Computer_Science_and_Technology___Technical_reports__UCAM_CL_TR_797.phz",
+    "lastUpdated": "2018-10-05T18:27:49.322Z",
+    "title": "Department of Computer Science and Technology – Technical reports: UCAM-CL-TR-797",
+    "url": "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-797.html"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

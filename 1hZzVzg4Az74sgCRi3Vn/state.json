@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "management": {
+        "id": "management",
+        "label": "management"
+      },
+      "hiring": {
+        "id": "hiring",
+        "label": "hiring"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1hZzVzg4Az74sgCRi3Vn",
+    "added": "2018-10-05T16:18:30.310Z",
+    "filename": "Stop_Hiring_for_Culture_Fit.phz",
+    "lastUpdated": "2018-10-05T16:18:41.550Z",
+    "title": "Stop Hiring for Culture Fit",
+    "url": "https://hbr.org/2018/01/how-to-hire"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
