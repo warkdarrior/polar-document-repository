@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "probabilistic_programming": {
+        "id": "probabilistic_programming",
+        "label": "probabilistic_programming"
+      },
+      "introduction": {
+        "id": "introduction",
+        "label": "introduction"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1VTeSPAA2SC1gzNsjepx",
+    "added": "2018-10-05T19:53:53.458Z",
+    "filename": "_1809_10756__An_Introduction_to_Probabilistic_Programming.phz",
+    "lastUpdated": "2018-10-05T19:54:14.828Z",
+    "title": "[1809.10756] An Introduction to Probabilistic Programming",
+    "url": "https://arxiv.org/abs/1809.10756"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      },
+      "bayesian_neural_network": {
+        "id": "bayesian_neural_network",
+        "label": "bayesian_neural_network"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1zYx6TM8grbPENT6XdTA",
+    "added": "2018-10-05T19:50:46.087Z",
+    "filename": "_1810_01279__Adv_BNN__Improved_Adversarial_Defense_through_Robust_Bayesian_Neural_Network.phz",
+    "lastUpdated": "2018-10-05T19:51:04.955Z",
+    "title": "[1810.01279] Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network",
+    "url": "https://arxiv.org/abs/1810.01279"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "Intel_SGX": {
+        "id": "Intel_SGX",
+        "label": "Intel_SGX"
+      },
+      "smart_grid": {
+        "id": "smart_grid",
+        "label": "smart_grid"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "124oNdxUfmvFYxFMcgDy",
+    "added": "2018-10-05T18:59:37.500Z",
+    "filename": "_1810_01651__SecGrid__A_Secure_and_Efficient_SGX_enabled_Smart_Grid_System_with_Rich_Functionalities.phz",
+    "lastUpdated": "2018-10-05T18:59:54.840Z",
+    "title": "[1810.01651] SecGrid: A Secure and Efficient SGX-enabled Smart Grid System with Rich Functionalities",
+    "url": "https://arxiv.org/abs/1810.01651"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

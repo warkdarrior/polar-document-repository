@@ -1,0 +1,56 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "FHE": {
+        "id": "FHE",
+        "label": "FHE"
+      },
+      "compiler": {
+        "id": "compiler",
+        "label": "compiler"
+      },
+      "computation_on_encrypted_data": {
+        "id": "computation_on_encrypted_data",
+        "label": "computation_on_encrypted_data"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "tensor_flow": {
+        "id": "tensor_flow",
+        "label": "tensor_flow"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "16NBCu8ZDS3Kte8oHzS2",
+    "added": "2018-10-05T19:52:56.196Z",
+    "filename": "_1810_00845__CHET__Compiler_and_Runtime_for_Homomorphic_Evaluation_of_Tensor_Programs.phz",
+    "lastUpdated": "2018-10-05T19:53:22.929Z",
+    "title": "[1810.00845] CHET: Compiler and Runtime for Homomorphic Evaluation of Tensor Programs",
+    "url": "https://arxiv.org/abs/1810.00845"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

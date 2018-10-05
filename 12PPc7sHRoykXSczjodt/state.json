@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12PPc7sHRoykXSczjodt",
+    "added": "2018-10-05T19:50:13.823Z",
+    "filename": "_1810_01407v1__Can_Adversarially_Robust_Learning_Leverage_Computational_Hardness_.phz",
+    "lastUpdated": "2018-10-05T19:50:21.005Z",
+    "title": "[1810.01407v1] Can Adversarially Robust Learning Leverage Computational Hardness?",
+    "url": "https://arxiv.org/abs/1810.01407v1"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

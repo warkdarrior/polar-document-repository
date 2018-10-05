@@ -1,0 +1,44 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "secure_computation": {
+        "id": "secure_computation",
+        "label": "secure_computation"
+      },
+      "verifiable_computation": {
+        "id": "verifiable_computation",
+        "label": "verifiable_computation"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1s5Dy3zcEwDrHMkuHV9D",
+    "added": "2018-10-05T18:57:43.271Z",
+    "filename": "_1810_02066v1__Turning_Lemons_into_Peaches_using_Secure_Computation.phz",
+    "lastUpdated": "2018-10-05T18:57:55.751Z",
+    "title": "[1810.02066v1] Turning Lemons into Peaches using Secure Computation",
+    "url": "https://arxiv.org/abs/1810.02066v1"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
