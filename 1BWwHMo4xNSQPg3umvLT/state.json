@@ -1,0 +1,60 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "authentication": {
+        "id": "authentication",
+        "label": "authentication"
+      },
+      "attack": {
+        "id": "attack",
+        "label": "attack"
+      },
+      "multi_factor_authentication": {
+        "id": "multi_factor_authentication",
+        "label": "multi_factor_authentication"
+      },
+      "two_factor_authentication": {
+        "id": "two_factor_authentication",
+        "label": "two_factor_authentication"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1BWwHMo4xNSQPg3umvLT",
+    "added": "2018-12-14T21:35:33.008Z",
+    "filename": "1hhSetqu5F-Real_Time_Attacks_Against_Two_Factor_Authentication___Schneier_on_Security.phz",
+    "lastUpdated": "2018-12-14T21:37:12.498Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "Real-Time Attacks Against Two-Factor Authentication - Schneier on Security",
+    "url": "https://www.schneier.com/blog/archives/2018/12/real-time_attac.html",
+    "uuid": "6ada3120-ffe8-11e8-a2a4-9f2673ffa272"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
