@@ -9,37 +9,43 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "interpretability": {
-        "id": "interpretability",
-        "label": "interpretability"
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      },
+      "robust_machine_learning": {
+        "id": "robust_machine_learning",
+        "label": "robust_machine_learning"
       },
       "machine_learning": {
         "id": "machine_learning",
         "label": "machine_learning"
-      },
-      "security": {
-        "id": "security",
-        "label": "security"
       }
     },
-    "nrPages": 16,
-    "fingerprint": "c00007fbfad267eb6f2fd51128db43bc",
-    "added": "2018-10-05T18:41:08.799Z",
-    "filename": "LEMNA-- Explaining Deep Learning based Security Applications (CCS 2018).pdf",
-    "lastUpdated": "2018-12-14T21:53:42.743Z",
+    "nrPages": 11,
+    "fingerprint": "bf18e2edf0420847ce16644805f714ff",
+    "added": "2018-12-14T21:57:11.333Z",
+    "filename": "12PYHLYc2z-1810.04065.pdf",
+    "uuid": "4c887990-ffeb-11e8-954e-454dfe1dd169",
+    "title": "Limitations of adversarial robustness:  strong No Free Lunch Theorem",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "12PYHLYc2zbnCaqSTPgui465W1pePAcvuibwAHSY9U6vVtCqvnh"
+    },
+    "lastUpdated": "2018-12-14T21:57:50.121Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
     "nrTextHighlights": 0,
     "nrAreaHighlights": 0,
-    "nrAnnotations": 0,
-    "uuid": "b9159670-ffea-11e8-879c-f5f6517e5404",
-    "title": "LEMNA-- Explaining Deep Learning based Security Applications (CCS 2018)"
+    "nrAnnotations": 0
   },
   "pageMetas": {
     "1": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -48,12 +54,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 1
-      },
-      "comments": {}
+      }
     },
     "2": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -62,12 +68,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 2
-      },
-      "comments": {}
+      }
     },
     "3": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -76,12 +82,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 3
-      },
-      "comments": {}
+      }
     },
     "4": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -90,12 +96,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 4
-      },
-      "comments": {}
+      }
     },
     "5": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -104,12 +110,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 5
-      },
-      "comments": {}
+      }
     },
     "6": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -118,12 +124,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 6
-      },
-      "comments": {}
+      }
     },
     "7": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -132,12 +138,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 7
-      },
-      "comments": {}
+      }
     },
     "8": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -146,12 +152,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 8
-      },
-      "comments": {}
+      }
     },
     "9": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -160,12 +166,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 9
-      },
-      "comments": {}
+      }
     },
     "10": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -174,12 +180,12 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 10
-      },
-      "comments": {}
+      }
     },
     "11": {
       "pagemarks": {},
       "notes": {},
+      "comments": {},
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
@@ -188,78 +194,7 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 11
-      },
-      "comments": {}
-    },
-    "12": {
-      "pagemarks": {},
-      "notes": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "pageInfo": {
-        "num": 12
-      },
-      "comments": {}
-    },
-    "13": {
-      "pagemarks": {},
-      "notes": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "pageInfo": {
-        "num": 13
-      },
-      "comments": {}
-    },
-    "14": {
-      "pagemarks": {},
-      "notes": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "pageInfo": {
-        "num": 14
-      },
-      "comments": {}
-    },
-    "15": {
-      "pagemarks": {},
-      "notes": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "pageInfo": {
-        "num": 15
-      },
-      "comments": {}
-    },
-    "16": {
-      "pagemarks": {},
-      "notes": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "pageInfo": {
-        "num": 16
-      },
-      "comments": {}
+      }
     }
   }
 }

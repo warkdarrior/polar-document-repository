@@ -1,0 +1,60 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      },
+      "neural_network": {
+        "id": "neural_network",
+        "label": "neural_network"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "robust_machine_learning": {
+        "id": "robust_machine_learning",
+        "label": "robust_machine_learning"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1fBeDA6k7t3LP9CgJyFt",
+    "added": "2018-12-14T21:56:08.101Z",
+    "filename": "1soWPZiE4w-The_Goldilocks_zone__Towards_better_understanding_of_neural_network_loss_landscapes.phz",
+    "lastUpdated": "2018-12-14T21:58:05.037Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "The Goldilocks zone: Towards better understanding of neural network loss landscapes",
+    "url": "https://www.groundai.com/project/the-goldilocks-zone-towards-better-understanding-of-neural-network-loss-landscapes/",
+    "uuid": "556c79d0-ffeb-11e8-954e-454dfe1dd169"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
