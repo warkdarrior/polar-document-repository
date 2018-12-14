@@ -8,7 +8,16 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {},
+    "tags": {
+      "secure_multiparty_computation": {
+        "id": "secure_multiparty_computation",
+        "label": "secure_multiparty_computation"
+      },
+      "game_theory": {
+        "id": "game_theory",
+        "label": "game_theory"
+      }
+    },
     "nrPages": 55,
     "fingerprint": "e7652956abf7bd548cd8d84bcd5e9659",
     "added": "2018-12-14T21:32:09.245Z",
@@ -18,7 +27,7 @@
       "data": "12nt3LQaaugHwKhcyWtxgg5aMvZiYrYqBaV8ivEDAEChfSBA8eU",
       "enc": "base58check"
     },
-    "lastUpdated": "2018-12-14T21:33:20.393Z",
+    "lastUpdated": "2018-12-14T23:27:30.870Z",
     "nrAnnotations": 0,
     "nrAreaHighlights": 0,
     "nrComments": 0,
@@ -26,7 +35,7 @@
     "nrNotes": 0,
     "nrTextHighlights": 0,
     "title": "Game Theoretic Notions of Fairness in Multi-Party Coin Toss",
-    "uuid": "e081c790-ffe7-11e8-a2a4-9f2673ffa272"
+    "uuid": "z2018-12-14T23:27:30.871Z+000002-820712290695"
   },
   "pageMetas": {
     "1": {
