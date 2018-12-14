@@ -8,29 +8,25 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {
-      "programming": {
-        "id": "programming",
-        "label": "programming"
-      },
-      "programming_models": {
-        "id": "programming_models",
-        "label": "programming_models"
-      }
+    "tags": {},
+    "nrPages": 55,
+    "fingerprint": "e7652956abf7bd548cd8d84bcd5e9659",
+    "added": "2018-12-14T21:32:09.245Z",
+    "filename": "12nt3LQaau-2018-1076.pdf",
+    "hashcode": {
+      "alg": "keccak256",
+      "data": "12nt3LQaaugHwKhcyWtxgg5aMvZiYrYqBaV8ivEDAEChfSBA8eU",
+      "enc": "base58check"
     },
-    "nrPages": 39,
-    "fingerprint": "c367cbd13add502383e096f41c9f1638",
-    "added": "2018-11-05T18:25:14.362Z",
-    "filename": "VanRoyChapter.pdf",
-    "lastUpdated": "2018-12-14T21:33:56.907Z",
-    "nrAnnotations": 3,
-    "nrAreaHighlights": 1,
+    "lastUpdated": "2018-12-14T21:33:20.393Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
     "nrComments": 0,
     "nrFlashcards": 0,
     "nrNotes": 0,
-    "nrTextHighlights": 2,
-    "uuid": "f6455fb0-ffe7-11e8-a2a4-9f2673ffa272",
-    "title": "Programming Paradigms for Dummies:  What Every Programmer Should Know"
+    "nrTextHighlights": 0,
+    "title": "Game Theoretic Notions of Fairness in Multi-Party Coin Toss",
+    "uuid": "e081c790-ffe7-11e8-a2a4-9f2673ffa272"
   },
   "pageMetas": {
     "1": {
@@ -39,110 +35,7 @@
       "comments": {},
       "questions": {},
       "flashcards": {},
-      "textHighlights": {
-        "127Jj9Wtw8": {
-          "id": "127Jj9Wtw8",
-          "guid": "127Jj9Wtw8",
-          "created": "2018-12-10T21:09:47.242Z",
-          "lastUpdated": "2018-12-10T21:09:47.242Z",
-          "rects": {
-            "0": {
-              "left": 142,
-              "top": 549,
-              "right": 652.22125,
-              "bottom": 565,
-              "width": 510.22125000000005,
-              "height": 16
-            },
-            "1": {
-              "left": 142,
-              "top": 565,
-              "right": 652.496576,
-              "bottom": 581,
-              "width": 510.496576,
-              "height": 16
-            },
-            "2": {
-              "left": 142,
-              "top": 581,
-              "right": 651.819904,
-              "bottom": 597,
-              "width": 509.81990399999995,
-              "height": 16
-            },
-            "3": {
-              "left": 142,
-              "top": 597,
-              "right": 284.218505,
-              "bottom": 612,
-              "width": 142.218505,
-              "height": 15
-            }
-          },
-          "textSelections": {
-            "0": {
-              "text": "We present four little-known but important paradigms that greatly simplify concurrent",
-              "rect": {
-                "left": 142,
-                "top": 549,
-                "right": 652.22125,
-                "bottom": 564,
-                "width": 510.22125000000005,
-                "height": 15
-              }
-            },
-            "1": {
-              "text": "programming with respect to mainstream languages:  declarative concurrency (both ea-",
-              "rect": {
-                "left": 142,
-                "top": 565,
-                "right": 652.496576,
-                "bottom": 580,
-                "width": 510.496576,
-                "height": 15
-              }
-            },
-            "2": {
-              "text": "ger and lazy), functional reactive programming, discrete synchronous programming, and",
-              "rect": {
-                "left": 142,
-                "top": 581,
-                "right": 651.819904,
-                "bottom": 596,
-                "width": 509.819904,
-                "height": 15
-              }
-            },
-            "3": {
-              "text": "constraint programming.",
-              "rect": {
-                "left": 142,
-                "top": 597,
-                "right": 284.218505,
-                "bottom": 612,
-                "width": 142.218505,
-                "height": 15
-              }
-            }
-          },
-          "text": {
-            "TEXT": "\nWe present four little-known but important paradigms that greatly simplify concurrent\nprogramming with respect to mainstream languages:  declarative concurrency (both ea-\nger and lazy), functional reactive programming, discrete synchronous programming, and\nconstraint programming."
-          },
-          "images": {
-            "screenshot": {
-              "type": "png",
-              "src": "screenshot:12EtwgfYjP",
-              "width": 510,
-              "height": 216,
-              "rel": "screenshot"
-            }
-          },
-          "notes": {},
-          "questions": {},
-          "flashcards": {},
-          "color": "yellow"
-        }
-      },
+      "textHighlights": {},
       "areaHighlights": {},
       "screenshots": {},
       "thumbnails": {},
@@ -325,25 +218,7 @@
       "questions": {},
       "flashcards": {},
       "textHighlights": {},
-      "areaHighlights": {
-        "1EbY9qUs9k": {
-          "id": "1EbY9qUs9k",
-          "created": "2018-12-10T21:10:23.069Z",
-          "lastUpdated": "2018-12-10T21:10:23.069Z",
-          "rects": {
-            "0": {
-              "left": 22.57250945775536,
-              "top": 11.853832442067736,
-              "width": 50.69356872635561,
-              "height": 27.629233511586456
-            }
-          },
-          "notes": {},
-          "questions": {},
-          "flashcards": {},
-          "images": {}
-        }
-      },
+      "areaHighlights": {},
       "screenshots": {},
       "thumbnails": {},
       "pageInfo": {
@@ -552,148 +427,7 @@
       "comments": {},
       "questions": {},
       "flashcards": {},
-      "textHighlights": {
-        "12BmL4CvEv": {
-          "id": "12BmL4CvEv",
-          "guid": "12BmL4CvEv",
-          "created": "2018-12-10T21:12:55.478Z",
-          "lastUpdated": "2018-12-10T21:12:55.478Z",
-          "rects": {
-            "0": {
-              "left": 272.722375,
-              "top": 654,
-              "right": 652.1121250000001,
-              "bottom": 670,
-              "width": 379.3897500000001,
-              "height": 16
-            },
-            "1": {
-              "left": 142,
-              "top": 670,
-              "right": 652.393136,
-              "bottom": 686,
-              "width": 510.393136,
-              "height": 16
-            },
-            "2": {
-              "left": 142,
-              "top": 686,
-              "right": 652.416438,
-              "bottom": 702,
-              "width": 510.41643799999997,
-              "height": 16
-            },
-            "3": {
-              "left": 142,
-              "top": 702,
-              "right": 652.04806,
-              "bottom": 718,
-              "width": 510.04805999999996,
-              "height": 16
-            },
-            "4": {
-              "left": 142,
-              "top": 718,
-              "right": 651.945856,
-              "bottom": 734,
-              "width": 509.94585600000005,
-              "height": 16
-            },
-            "5": {
-              "left": 142,
-              "top": 734,
-              "right": 327.37088800000004,
-              "bottom": 749,
-              "width": 185.37088800000004,
-              "height": 15
-            }
-          },
-          "textSelections": {
-            "0": {
-              "text": " to do declarative concurrency, which is the first and simplest form",
-              "rect": {
-                "left": 272.722375,
-                "top": 654,
-                "right": 652.1121250000001,
-                "bottom": 669,
-                "width": 379.38975000000005,
-                "height": 15
-              }
-            },
-            "1": {
-              "text": "of  deterministic  concurrency (see  chapter  4  of  [50]  for  more  information).   Declarative",
-              "rect": {
-                "left": 142,
-                "top": 670,
-                "right": 652.393136,
-                "bottom": 685,
-                "width": 510.393136,
-                "height": 15
-              }
-            },
-            "2": {
-              "text": "concurrency has the main advantage of functional programming, namely confluence, in",
-              "rect": {
-                "left": 142,
-                "top": 686,
-                "right": 652.416438,
-                "bottom": 701,
-                "width": 510.416438,
-                "height": 15
-              }
-            },
-            "3": {
-              "text": "a concurrent model.  This means that all evaluation orders give the same result,  or in",
-              "rect": {
-                "left": 142,
-                "top": 702,
-                "right": 652.04806,
-                "bottom": 717,
-                "width": 510.04805999999996,
-                "height": 15
-              }
-            },
-            "4": {
-              "text": "other words, it has no race conditions.  It adds two concepts to the functional paradigm:",
-              "rect": {
-                "left": 142,
-                "top": 718,
-                "right": 651.945856,
-                "bottom": 733,
-                "width": 509.945856,
-                "height": 15
-              }
-            },
-            "5": {
-              "text": "threads  and  dataflow  variables. ",
-              "rect": {
-                "left": 142,
-                "top": 734,
-                "right": 327.37088800000004,
-                "bottom": 749,
-                "width": 185.370888,
-                "height": 15
-              }
-            }
-          },
-          "text": {
-            "TEXT": "\n to do declarative concurrency, which is the first and simplest form\nof  deterministic  concurrency (see  chapter  4  of  [50]  for  more  information).   Declarative\nconcurrency has the main advantage of functional programming, namely confluence, in\na concurrent model.  This means that all evaluation orders give the same result,  or in\nother words, it has no race conditions.  It adds two concepts to the functional paradigm:\nthreads  and  dataflow  variables. "
-          },
-          "images": {
-            "screenshot": {
-              "type": "png",
-              "src": "screenshot:121E2SnviA",
-              "width": 510,
-              "height": 265,
-              "rel": "screenshot"
-            }
-          },
-          "notes": {},
-          "questions": {},
-          "flashcards": {},
-          "color": "yellow"
-        }
-      },
+      "textHighlights": {},
       "areaHighlights": {},
       "screenshots": {},
       "thumbnails": {},
@@ -839,6 +573,230 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 39
+      }
+    },
+    "40": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 40
+      }
+    },
+    "41": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 41
+      }
+    },
+    "42": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 42
+      }
+    },
+    "43": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 43
+      }
+    },
+    "44": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 44
+      }
+    },
+    "45": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 45
+      }
+    },
+    "46": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 46
+      }
+    },
+    "47": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 47
+      }
+    },
+    "48": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 48
+      }
+    },
+    "49": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 49
+      }
+    },
+    "50": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 50
+      }
+    },
+    "51": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 51
+      }
+    },
+    "52": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 52
+      }
+    },
+    "53": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 53
+      }
+    },
+    "54": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 54
+      }
+    },
+    "55": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 55
       }
     }
   }
