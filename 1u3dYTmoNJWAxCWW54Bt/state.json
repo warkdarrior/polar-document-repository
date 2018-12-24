@@ -1,0 +1,52 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "rowing": {
+        "id": "rowing",
+        "label": "rowing"
+      },
+      "bucket_list": {
+        "id": "bucket_list",
+        "label": "bucket_list"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1u3dYTmoNJWAxCWW54Bt",
+    "added": "2018-12-24T21:48:14.300Z",
+    "filename": "1gpCVw9kvV-Bucket_List___Rowing.phz",
+    "lastUpdated": "2018-12-24T21:48:33.681Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "Bucket List - Rowing",
+    "url": "https://www.reddit.com/r/Rowing/comments/4fzbzu/bucket_list/",
+    "uuid": "z2018-12-24T21:48:33.681Z+000011-328648149005"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}

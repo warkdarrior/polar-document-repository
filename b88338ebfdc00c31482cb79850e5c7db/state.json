@@ -1,0 +1,56 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "editing": {
+        "id": "editing",
+        "label": "editing"
+      },
+      "proofreading": {
+        "id": "proofreading",
+        "label": "proofreading"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "b88338ebfdc00c31482cb79850e5c7db",
+    "added": "2018-12-24T22:05:05.245Z",
+    "filename": "12FTeDmTnu-proofreadingmarks.pdf",
+    "uuid": "z2018-12-24T22:05:35.219Z+000017-328648149005",
+    "title": "proofreadingmarks.pdf",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "12FTeDmTnuauCQwPPFzctC6SeXc9FA7gjsWjPYxcpGTNDERNEqG"
+    },
+    "lastUpdated": "2018-12-24T22:05:35.219Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
