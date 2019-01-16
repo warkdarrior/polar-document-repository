@@ -1,0 +1,64 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "survey": {
+        "id": "survey",
+        "label": "survey"
+      },
+      "oakland": {
+        "id": "oakland",
+        "label": "oakland"
+      },
+      "s_and_p": {
+        "id": "s_and_p",
+        "label": "s_and_p"
+      },
+      "mobile_security": {
+        "id": "mobile_security",
+        "label": "mobile_security"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1NwB4M1hiur4haSsXi6K",
+    "added": "2019-01-16T01:17:43.912Z",
+    "filename": "19ZKRzgFya-Mobile_Security_Catching_Up__Revealing_the_Nuts_and_Bolts_of_the_Security_of_Mobile_Devices___IEEE_Conference_Publication.phz",
+    "lastUpdated": "2019-01-16T01:18:06.986Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "Mobile Security Catching Up? Revealing the Nuts and Bolts of the Security of Mobile Devices - IEEE Conference Publication",
+    "url": "https://ieeexplore.ieee.org/document/5958024",
+    "uuid": "z2019-01-16T01:18:06.986Z+000017-114236054239"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 2034
+        }
+      }
+    }
+  }
+}
