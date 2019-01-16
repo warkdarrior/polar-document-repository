@@ -1,0 +1,220 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "authenticated_data_structure": {
+        "id": "authenticated_data_structure",
+        "label": "authenticated_data_structure"
+      }
+    },
+    "nrPages": 13,
+    "fingerprint": "1a6dcc3638c2d51a2c27b2aaaf41405e",
+    "added": "2019-01-16T01:09:08.933Z",
+    "filename": "12EZCajNP5-gpads.pdf",
+    "uuid": "z2019-01-16T01:10:09.662Z+000001-129255043091",
+    "title": "Authenticated Data Structures, Generically",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "12EZCajNP5c4Ag71cvDL7zNHoGWrupSJsuLQugwKYaw35NYMzXP"
+    },
+    "lastUpdated": "2019-01-16T01:10:09.661Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    },
+    "2": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 2
+      }
+    },
+    "3": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 3
+      }
+    },
+    "4": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 4
+      }
+    },
+    "5": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 5
+      }
+    },
+    "6": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 6
+      }
+    },
+    "7": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 7
+      }
+    },
+    "8": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 8
+      }
+    },
+    "9": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 9
+      }
+    },
+    "10": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 10
+      }
+    },
+    "11": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 11
+      }
+    },
+    "12": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 12
+      }
+    },
+    "13": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 13
+      }
+    }
+  }
+}

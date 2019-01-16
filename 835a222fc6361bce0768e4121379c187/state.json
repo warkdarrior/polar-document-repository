@@ -1,0 +1,74 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "Intel_SGX": {
+        "id": "Intel_SGX",
+        "label": "Intel_SGX"
+      },
+      "trusted_execution_environment": {
+        "id": "trusted_execution_environment",
+        "label": "trusted_execution_environment"
+      },
+      "systex": {
+        "id": "systex",
+        "label": "systex"
+      }
+    },
+    "nrPages": 2,
+    "fingerprint": "835a222fc6361bce0768e4121379c187",
+    "added": "2019-01-16T01:00:07.394Z",
+    "filename": "12V9qDsuMZ-systex17-final.pdf",
+    "uuid": "z2019-01-16T01:04:55.020Z+000003-542794109726",
+    "title": "Challenges For Scaling Applications Across Enclaves",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "12V9qDsuMZfFodj43GMpqTTepKiEEikpZL2YAp1ovawN2YakHdN"
+    },
+    "lastUpdated": "2019-01-16T01:04:55.020Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    },
+    "2": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 2
+      }
+    }
+  }
+}
