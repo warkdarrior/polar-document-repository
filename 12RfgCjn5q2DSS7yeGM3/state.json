@@ -1,0 +1,68 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "adversarial_machine_learning": {
+        "id": "adversarial_machine_learning",
+        "label": "adversarial_machine_learning"
+      },
+      "malware": {
+        "id": "malware",
+        "label": "malware"
+      },
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "detection": {
+        "id": "detection",
+        "label": "detection"
+      },
+      "robust_machine_learning": {
+        "id": "robust_machine_learning",
+        "label": "robust_machine_learning"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12RfgCjn5q2DSS7yeGM3",
+    "added": "2019-01-17T23:08:30.152Z",
+    "filename": "1dH5zg2d2X-_1901_03583__Explaining_Vulnerabilities_of_Deep_Learning_to_Adversarial_Malware_Binaries.phz",
+    "lastUpdated": "2019-01-17T23:09:06.864Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries",
+    "url": "https://arxiv.org/abs/1901.03583",
+    "uuid": "z2019-01-17T23:09:06.864Z+000005-595670237822"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 1512
+        }
+      }
+    }
+  }
+}
