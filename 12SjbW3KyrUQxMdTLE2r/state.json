@@ -1,0 +1,60 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "data_structure": {
+        "id": "data_structure",
+        "label": "data_structure"
+      },
+      "performance": {
+        "id": "performance",
+        "label": "performance"
+      },
+      "synthesis": {
+        "id": "synthesis",
+        "label": "synthesis"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12SjbW3KyrUQxMdTLE2r",
+    "added": "2019-01-23T22:31:14.034Z",
+    "filename": "1GZdmdiEZz-The_Data_Calculator__Data_Structure_Design_and_Cos.phz",
+    "uuid": "z2019-01-23T22:32:03.628Z+000005-601427318527",
+    "lastUpdated": "2019-01-23T22:32:03.628Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0,
+    "title": "The Data Calculator: Data Structure Design and Cost Synthesis From First Principles, and Learned Cost Models",
+    "url": "https://stratos.seas.harvard.edu/publications/data-calculator-data-structure-design-and-cost-synthesis-first-principles-and"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 1662
+        }
+      }
+    }
+  }
+}
