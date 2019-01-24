@@ -1,0 +1,396 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "safety": {
+        "id": "safety",
+        "label": "safety"
+      },
+      "program_properties": {
+        "id": "program_properties",
+        "label": "program_properties"
+      },
+      "formal_specification": {
+        "id": "formal_specification",
+        "label": "formal_specification"
+      }
+    },
+    "nrPages": 25,
+    "fingerprint": "1432bf01d350d6fad10b7c1343cab2e0",
+    "added": "2019-01-24T00:20:19.824Z",
+    "filename": "1cCixtNxFU-1705.07354.pdf",
+    "uuid": "z2019-01-24T00:21:27.388Z+000013-601427318527",
+    "title": "The Meaning of Memory Safety",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "1cCixtNxFUw5W5w4HbuqQzF8y5himfry3qyowEg2r3Cvqd3tgx"
+    },
+    "lastUpdated": "2019-01-24T00:21:27.388Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    },
+    "2": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 2
+      }
+    },
+    "3": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 3
+      }
+    },
+    "4": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 4
+      }
+    },
+    "5": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 5
+      }
+    },
+    "6": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 6
+      }
+    },
+    "7": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 7
+      }
+    },
+    "8": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 8
+      }
+    },
+    "9": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 9
+      }
+    },
+    "10": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 10
+      }
+    },
+    "11": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 11
+      }
+    },
+    "12": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 12
+      }
+    },
+    "13": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 13
+      }
+    },
+    "14": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 14
+      }
+    },
+    "15": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 15
+      }
+    },
+    "16": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 16
+      }
+    },
+    "17": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 17
+      }
+    },
+    "18": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 18
+      }
+    },
+    "19": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 19
+      }
+    },
+    "20": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 20
+      }
+    },
+    "21": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 21
+      }
+    },
+    "22": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 22
+      }
+    },
+    "23": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 23
+      }
+    },
+    "24": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 24
+      }
+    },
+    "25": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 25
+      }
+    }
+  }
+}
