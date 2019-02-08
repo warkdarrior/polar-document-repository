@@ -8,19 +8,29 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {},
+    "tags": {
+      "data_management": {
+        "id": "data_management",
+        "label": "data_management"
+      },
+      "database": {
+        "id": "database",
+        "label": "database"
+      }
+    },
     "nrPages": 12,
     "fingerprint": "5b25cb7b1661f21be7646de5bb939588",
     "added": "2018-11-09T17:30:39.764Z",
     "filename": "CIDR17.pdf",
-    "lastUpdated": "2018-11-09T17:31:01.727Z",
+    "lastUpdated": "2019-02-07T17:24:50.734Z",
     "nrAnnotations": 0,
     "nrAreaHighlights": 0,
     "nrComments": 0,
     "nrFlashcards": 0,
     "nrNotes": 0,
     "nrTextHighlights": 0,
-    "uuid": "3a547510-e445-11e8-806d-9fd18708743a"
+    "uuid": "z2019-02-07T17:24:50.734Z+000002-822948610435",
+    "title": "Ground: A Data Context Service"
   },
   "pageMetas": {
     "1": {
@@ -35,7 +45,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 1
-      }
+      },
+      "readingProgress": {}
     },
     "2": {
       "pagemarks": {},
@@ -49,7 +60,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 2
-      }
+      },
+      "readingProgress": {}
     },
     "3": {
       "pagemarks": {},
@@ -63,7 +75,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 3
-      }
+      },
+      "readingProgress": {}
     },
     "4": {
       "pagemarks": {},
@@ -77,7 +90,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 4
-      }
+      },
+      "readingProgress": {}
     },
     "5": {
       "pagemarks": {},
@@ -91,7 +105,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 5
-      }
+      },
+      "readingProgress": {}
     },
     "6": {
       "pagemarks": {},
@@ -105,7 +120,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 6
-      }
+      },
+      "readingProgress": {}
     },
     "7": {
       "pagemarks": {},
@@ -119,7 +135,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 7
-      }
+      },
+      "readingProgress": {}
     },
     "8": {
       "pagemarks": {},
@@ -133,7 +150,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 8
-      }
+      },
+      "readingProgress": {}
     },
     "9": {
       "pagemarks": {},
@@ -147,7 +165,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 9
-      }
+      },
+      "readingProgress": {}
     },
     "10": {
       "pagemarks": {},
@@ -161,7 +180,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 10
-      }
+      },
+      "readingProgress": {}
     },
     "11": {
       "pagemarks": {},
@@ -175,7 +195,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 11
-      }
+      },
+      "readingProgress": {}
     },
     "12": {
       "pagemarks": {},
@@ -189,7 +210,8 @@
       "thumbnails": {},
       "pageInfo": {
         "num": 12
-      }
+      },
+      "readingProgress": {}
     }
   }
 }
