@@ -1,0 +1,61 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "deep_neural_network": {
+        "id": "deep_neural_network",
+        "label": "deep_neural_network"
+      },
+      "learning_theory": {
+        "id": "learning_theory",
+        "label": "learning_theory"
+      },
+      "PAC": {
+        "id": "PAC",
+        "label": "PAC"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1itVQk9E8Lw8Ac9QFnu6",
+    "added": "2019-02-21T00:56:35.871Z",
+    "filename": "12GXfFWWfP-On_PAC_Analysis_and_Deep_Neural_Networks___Theory_.phz",
+    "uuid": "z2019-02-21T00:57:03.380Z+000002-009213783452",
+    "lastUpdated": "2019-02-21T00:57:03.380Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0,
+    "title": "On PAC Analysis and Deep Neural Networks – Theory Dish",
+    "url": "https://theorydish.blog/2019/01/04/on-pac-analysis-and-deep-neural-networks/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 11565
+        }
+      }
+    }
+  }
+}
