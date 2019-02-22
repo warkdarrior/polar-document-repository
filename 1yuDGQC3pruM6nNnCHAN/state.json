@@ -1,0 +1,57 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "cryptography": {
+        "id": "cryptography",
+        "label": "cryptography"
+      },
+      "cryptography_engineering": {
+        "id": "cryptography_engineering",
+        "label": "cryptography_engineering"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1yuDGQC3pruM6nNnCHAN",
+    "added": "2019-02-22T04:46:46.568Z",
+    "filename": "12nMdAnioc-Beyond_public_key_encryption___A_Few_Thoughts_on_C.phz",
+    "uuid": "z2019-02-22T04:47:09.446Z+000001-025042040225",
+    "lastUpdated": "2019-02-22T04:47:09.446Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0,
+    "title": "Beyond public key encryption – A Few Thoughts on Cryptographic Engineering",
+    "url": "https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 18495
+        }
+      }
+    }
+  }
+}
