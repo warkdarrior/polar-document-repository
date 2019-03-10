@@ -1,0 +1,57 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "security": {
+        "id": "security",
+        "label": "security"
+      },
+      "breach_report": {
+        "id": "breach_report",
+        "label": "breach_report"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "1wxmLxEdmtR9vcd9xNJh",
+    "added": "2019-02-22T05:36:33.647Z",
+    "filename": "1LtcAn3ctu-Congress_report__Equifax_breach__entirely_preventa.phz",
+    "uuid": "z2019-02-22T05:36:59.948Z+000003-777440213852",
+    "lastUpdated": "2019-02-22T05:36:59.946Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0,
+    "title": "Congress report: Equifax breach 'entirely preventable,' blames 'culture of cyber security complacency' | IT World Canada News",
+    "url": "https://www.itworldcanada.com/article/congress-report-equifax-breach-entirely-preventable-blames-culture-of-cyber-security-complacency/412857"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 9660
+        }
+      }
+    }
+  }
+}
