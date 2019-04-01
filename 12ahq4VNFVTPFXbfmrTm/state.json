@@ -1,0 +1,65 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "ebpf": {
+        "id": "ebpf",
+        "label": "ebpf"
+      },
+      "linux": {
+        "id": "linux",
+        "label": "linux"
+      },
+      "detection": {
+        "id": "detection",
+        "label": "detection"
+      },
+      "system_call": {
+        "id": "system_call",
+        "label": "system_call"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12ahq4VNFVTPFXbfmrTm",
+    "added": "2019-04-01T18:10:27.473Z",
+    "filename": "12BcxQMQHs-ebpf_and_IO_Visor__The_What__how__and_what_next_.phz",
+    "uuid": "z2019-04-01T18:11:11.197Z+000003-494233895585",
+    "title": "ebpf and IO Visor: The What, how, and what next!",
+    "url": "https://www.slideshare.net/mobile/AffanSyed1/ebpf-and-io-visor-the-what-how-and-what-next",
+    "lastUpdated": "2019-04-01T18:11:11.197Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 1650
+        }
+      }
+    }
+  }
+}
