@@ -9,24 +9,28 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "secure_messaging": {
-        "id": "secure_messaging",
-        "label": "secure_messaging"
+      "machine_learning": {
+        "id": "machine_learning",
+        "label": "machine_learning"
+      },
+      "systems": {
+        "id": "systems",
+        "label": "systems"
       }
     },
     "attachments": {},
-    "nrPages": 40,
-    "fingerprint": "8683e1bccf1a2d1722095720489b03a9",
-    "added": "2019-04-29T17:17:25.734Z",
-    "filename": "12sHiXkXTp-548.pdf",
-    "uuid": "z2019-04-29T18:35:15.523Z+000020-467668467635",
-    "title": "Message Transmission with Reverse Firewalls — Secure Communication on Corrupted Machines",
+    "nrPages": 54,
+    "fingerprint": "f52199e107bb7499a133950fc7cbde5c",
+    "added": "2019-04-29T18:32:58.403Z",
+    "filename": "12ruaHzLE3-dean-nips17.pdf",
+    "uuid": "z2019-04-29T18:34:54.496Z+000017-467668467635",
+    "title": "Machine Learning for Systems and Systems for Machine Learning (Jeff Dean, NIPS'17)",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12sHiXkXTpmfB2kSoUfYu3ji1a47eL7ay9Vnp7xNybmgjzXdvnG"
+      "data": "12ruaHzLE3qTBJfXdJAfHSc2ean44zjCYeM2RqAbF5ZEHJLN9nc"
     },
-    "lastUpdated": "2019-04-29T18:35:15.523Z",
+    "lastUpdated": "2019-04-29T18:34:54.496Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
@@ -633,6 +637,216 @@
       "readingProgress": {},
       "pageInfo": {
         "num": 40
+      }
+    },
+    "41": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 41
+      }
+    },
+    "42": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 42
+      }
+    },
+    "43": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 43
+      }
+    },
+    "44": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 44
+      }
+    },
+    "45": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 45
+      }
+    },
+    "46": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 46
+      }
+    },
+    "47": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 47
+      }
+    },
+    "48": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 48
+      }
+    },
+    "49": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 49
+      }
+    },
+    "50": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 50
+      }
+    },
+    "51": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 51
+      }
+    },
+    "52": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 52
+      }
+    },
+    "53": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 53
+      }
+    },
+    "54": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 54
       }
     }
   }

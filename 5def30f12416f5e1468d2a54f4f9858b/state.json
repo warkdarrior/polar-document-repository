@@ -1,0 +1,89 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "intrusion_detection": {
+        "id": "intrusion_detection",
+        "label": "intrusion_detection"
+      },
+      "measurement": {
+        "id": "measurement",
+        "label": "measurement"
+      },
+      "metric": {
+        "id": "metric",
+        "label": "metric"
+      },
+      "security": {
+        "id": "security",
+        "label": "security"
+      },
+      "survey": {
+        "id": "survey",
+        "label": "survey"
+      },
+      "science_of_security": {
+        "id": "science_of_security",
+        "label": "science_of_security"
+      }
+    },
+    "attachments": {},
+    "nrPages": 2,
+    "fingerprint": "5def30f12416f5e1468d2a54f4f9858b",
+    "added": "2019-04-29T18:59:14.803Z",
+    "filename": "1uRUAf8VXz-a27-huang.pdf",
+    "uuid": "z2019-04-29T19:00:34.169Z+000047-467668467635",
+    "title": "Systematization of Metrics in Intrusion Detection Systems",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "1uRUAf8VXzFewWRtNRLSGnjHg8j8QiLKjxfR2rvzHoifmyGYVA"
+    },
+    "lastUpdated": "2019-04-29T19:00:34.168Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1
+      }
+    },
+    "2": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 2
+      }
+    }
+  }
+}

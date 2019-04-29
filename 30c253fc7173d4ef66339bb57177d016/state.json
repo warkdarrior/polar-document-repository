@@ -8,20 +8,29 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {},
+    "tags": {
+      "side_channel": {
+        "id": "side_channel",
+        "label": "side_channel"
+      },
+      "synthesis": {
+        "id": "synthesis",
+        "label": "synthesis"
+      }
+    },
     "attachments": {},
     "nrPages": 15,
     "fingerprint": "30c253fc7173d4ef66339bb57177d016",
     "added": "2019-04-29T17:18:00.950Z",
     "filename": "1beiMF6HjG-401.pdf",
-    "uuid": "z2019-04-29T17:18:17.220Z+000009-467668467635",
+    "uuid": "z2019-04-29T18:35:05.403Z+000019-467668467635",
     "title": "Synthesis of Adaptive Side-Channel Attacks",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
       "data": "1beiMF6HjG4vUzWsCqurwnMHNDDFG9Atr4nVrKW6fnj47U6avz"
     },
-    "lastUpdated": "2019-04-29T17:18:17.220Z",
+    "lastUpdated": "2019-04-29T18:35:05.402Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,

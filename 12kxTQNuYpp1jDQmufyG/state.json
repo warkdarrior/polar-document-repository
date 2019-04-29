@@ -1,0 +1,58 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "bitcoin": {
+        "id": "bitcoin",
+        "label": "bitcoin"
+      },
+      "survey": {
+        "id": "survey",
+        "label": "survey"
+      }
+    },
+    "attachments": {},
+    "nrPages": 1,
+    "fingerprint": "12kxTQNuYpp1jDQmufyG",
+    "added": "2019-04-29T18:41:05.858Z",
+    "filename": "12grVdaj38-Bitcoin_s_Academic_Pedigree___ACM_Queue.phz",
+    "uuid": "z2019-04-29T18:41:32.175Z+000026-467668467635",
+    "title": "Bitcoin's Academic Pedigree - ACM Queue",
+    "url": "https://queue.acm.org/detail.cfm?id=3136559",
+    "lastUpdated": "2019-04-29T18:41:32.175Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 24557
+        }
+      }
+    }
+  }
+}

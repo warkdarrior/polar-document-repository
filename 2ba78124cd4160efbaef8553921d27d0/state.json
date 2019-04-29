@@ -9,28 +9,24 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "rethinking": {
-        "id": "rethinking",
-        "label": "rethinking"
-      },
-      "decentralized": {
-        "id": "decentralized",
-        "label": "decentralized"
+      "network_routing": {
+        "id": "network_routing",
+        "label": "network_routing"
       }
     },
     "attachments": {},
-    "nrPages": 8,
-    "fingerprint": "7cf6b9d8ed5cf3a70aa3fce6be27bcc1",
-    "added": "2019-04-18T22:22:18.766Z",
-    "filename": "12MCu9eJGV-protean-hotos19.pdf",
-    "uuid": "z2019-04-29T18:35:37.778Z+000022-467668467635",
-    "title": "Rethinking General-Purpose Decentralized Computing",
+    "nrPages": 7,
+    "fingerprint": "2ba78124cd4160efbaef8553921d27d0",
+    "added": "2019-04-29T20:08:01.112Z",
+    "filename": "1Nttj8oXtw-imc17-final174.pdf",
+    "uuid": "z2019-04-29T20:08:43.562Z+000060-467668467635",
+    "title": "The Record Route Option is an Option! (IMC, 2017)",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12MCu9eJGV9i8XVkiFVHptcpcwNKCvhfUiW1MhXsCVEtv9oT4Wx"
+      "data": "1Nttj8oXtwBcNTDVpWwuxC5cjnmr5q7GA18jLd6BLLQaMMuCkj"
     },
-    "lastUpdated": "2019-04-29T18:35:37.778Z",
+    "lastUpdated": "2019-04-29T20:08:43.562Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
@@ -142,21 +138,6 @@
       "readingProgress": {},
       "pageInfo": {
         "num": 7
-      }
-    },
-    "8": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 8
       }
     }
   }

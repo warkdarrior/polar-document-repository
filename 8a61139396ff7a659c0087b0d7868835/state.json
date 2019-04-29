@@ -9,24 +9,32 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "secure_messaging": {
-        "id": "secure_messaging",
-        "label": "secure_messaging"
+      "program_analysis": {
+        "id": "program_analysis",
+        "label": "program_analysis"
+      },
+      "static_analysis": {
+        "id": "static_analysis",
+        "label": "static_analysis"
+      },
+      "fuzzing": {
+        "id": "fuzzing",
+        "label": "fuzzing"
       }
     },
     "attachments": {},
-    "nrPages": 40,
-    "fingerprint": "8683e1bccf1a2d1722095720489b03a9",
-    "added": "2019-04-29T17:17:25.734Z",
-    "filename": "12sHiXkXTp-548.pdf",
-    "uuid": "z2019-04-29T18:35:15.523Z+000020-467668467635",
-    "title": "Message Transmission with Reverse Firewalls — Secure Communication on Corrupted Machines",
+    "nrPages": 22,
+    "fingerprint": "8a61139396ff7a659c0087b0d7868835",
+    "added": "2019-04-29T18:45:27.579Z",
+    "filename": "17xUPwowrL-2017-raid.pdf",
+    "uuid": "z2019-04-29T18:58:42.567Z+000042-467668467635",
+    "title": "Static Program Analysis as a Fuzzing Aid (RAID, 2017)",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12sHiXkXTpmfB2kSoUfYu3ji1a47eL7ay9Vnp7xNybmgjzXdvnG"
+      "data": "17xUPwowrLTsKiFLu7SZwrTtyeaCn2rrTtatGSZ63V8KbGkg3a"
     },
-    "lastUpdated": "2019-04-29T18:35:15.523Z",
+    "lastUpdated": "2019-04-29T18:58:42.567Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
@@ -363,276 +371,6 @@
       "readingProgress": {},
       "pageInfo": {
         "num": 22
-      }
-    },
-    "23": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 23
-      }
-    },
-    "24": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 24
-      }
-    },
-    "25": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 25
-      }
-    },
-    "26": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 26
-      }
-    },
-    "27": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 27
-      }
-    },
-    "28": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 28
-      }
-    },
-    "29": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 29
-      }
-    },
-    "30": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 30
-      }
-    },
-    "31": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 31
-      }
-    },
-    "32": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 32
-      }
-    },
-    "33": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 33
-      }
-    },
-    "34": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 34
-      }
-    },
-    "35": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 35
-      }
-    },
-    "36": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 36
-      }
-    },
-    "37": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 37
-      }
-    },
-    "38": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 38
-      }
-    },
-    "39": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 39
-      }
-    },
-    "40": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 40
       }
     }
   }

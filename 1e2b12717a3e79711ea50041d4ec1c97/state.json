@@ -9,28 +9,40 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "obfuscation": {
-        "id": "obfuscation",
-        "label": "obfuscation"
+      "network_middlebox": {
+        "id": "network_middlebox",
+        "label": "network_middlebox"
       },
-      "covert_channel": {
-        "id": "covert_channel",
-        "label": "covert_channel"
+      "network_security": {
+        "id": "network_security",
+        "label": "network_security"
+      },
+      "network_traffic_classification": {
+        "id": "network_traffic_classification",
+        "label": "network_traffic_classification"
+      },
+      "rule_inference": {
+        "id": "rule_inference",
+        "label": "rule_inference"
+      },
+      "SDN": {
+        "id": "SDN",
+        "label": "SDN"
       }
     },
     "attachments": {},
-    "nrPages": 16,
-    "fingerprint": "053334ba06007223c40a9f2ed9a9dc63",
-    "added": "2019-04-29T17:16:35.335Z",
-    "filename": "12sWSzCSQd-covert-channels.pdf",
-    "uuid": "z2019-04-29T18:35:29.057Z+000021-467668467635",
-    "title": "Probabilistic Obfuscation through Covert Channels",
+    "nrPages": 14,
+    "fingerprint": "1e2b12717a3e79711ea50041d4ec1c97",
+    "added": "2019-04-29T19:02:40.272Z",
+    "filename": "128ZvKZdb1-imc17-final61.pdf",
+    "uuid": "z2019-04-29T19:03:52.597Z+000051-467668467635",
+    "title": "liberate: A library for exposing (traffic-classification) rulesand avoiding them efficiently (IMC, 2017)",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12sWSzCSQdUK8JKY6GuqLKBHRCNAxkWAX7pvMNBDSW558jeJmjg"
+      "data": "128ZvKZdb1Wn3JgUE1e78mAJtLwiriQTzXAjiipa1HaJWPmUtas"
     },
-    "lastUpdated": "2019-04-29T18:35:29.057Z",
+    "lastUpdated": "2019-04-29T19:03:52.597Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
@@ -247,36 +259,6 @@
       "readingProgress": {},
       "pageInfo": {
         "num": 14
-      }
-    },
-    "15": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 15
-      }
-    },
-    "16": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 16
       }
     }
   }

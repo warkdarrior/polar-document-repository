@@ -9,24 +9,24 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "secure_messaging": {
-        "id": "secure_messaging",
-        "label": "secure_messaging"
+      "attestation": {
+        "id": "attestation",
+        "label": "attestation"
       }
     },
     "attachments": {},
     "nrPages": 40,
-    "fingerprint": "8683e1bccf1a2d1722095720489b03a9",
-    "added": "2019-04-29T17:17:25.734Z",
-    "filename": "12sHiXkXTp-548.pdf",
-    "uuid": "z2019-04-29T18:35:15.523Z+000020-467668467635",
-    "title": "Message Transmission with Reverse Firewalls — Secure Communication on Corrupted Machines",
+    "fingerprint": "d98f217e2070375689c56af56b5ab847",
+    "added": "2019-04-29T18:33:53.643Z",
+    "filename": "1LgXAhTPmf-2017-12-14-Direct-Anonymous-Attestation-IMA-ICCC.pdf",
+    "uuid": "z2019-04-29T18:34:46.406Z+000016-467668467635",
+    "title": "A Decade of Direct Anonymous Attestation (Jan Camenish, 2017)",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12sHiXkXTpmfB2kSoUfYu3ji1a47eL7ay9Vnp7xNybmgjzXdvnG"
+      "data": "1LgXAhTPmf3LRP3VMV14tzzAaDNCzfxhNg9cn8d87277fzpPzD"
     },
-    "lastUpdated": "2019-04-29T18:35:15.523Z",
+    "lastUpdated": "2019-04-29T18:34:46.405Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,

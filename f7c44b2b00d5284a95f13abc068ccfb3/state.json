@@ -9,28 +9,32 @@
     "archived": false,
     "flagged": false,
     "tags": {
-      "obfuscation": {
-        "id": "obfuscation",
-        "label": "obfuscation"
+      "measurement": {
+        "id": "measurement",
+        "label": "measurement"
       },
-      "covert_channel": {
-        "id": "covert_channel",
-        "label": "covert_channel"
+      "performance": {
+        "id": "performance",
+        "label": "performance"
+      },
+      "experiment_design": {
+        "id": "experiment_design",
+        "label": "experiment_design"
       }
     },
     "attachments": {},
-    "nrPages": 16,
-    "fingerprint": "053334ba06007223c40a9f2ed9a9dc63",
-    "added": "2019-04-29T17:16:35.335Z",
-    "filename": "12sWSzCSQd-covert-channels.pdf",
-    "uuid": "z2019-04-29T18:35:29.057Z+000021-467668467635",
-    "title": "Probabilistic Obfuscation through Covert Channels",
+    "nrPages": 11,
+    "fingerprint": "f7c44b2b00d5284a95f13abc068ccfb3",
+    "added": "2019-04-29T18:44:39.075Z",
+    "filename": "12ZV4bf22E-five-ways.pdf",
+    "uuid": "z2019-04-29T18:45:09.347Z+000038-467668467635",
+    "title": "Designing experiments for understanding performance",
     "hashcode": {
       "enc": "base58check",
       "alg": "keccak256",
-      "data": "12sWSzCSQdUK8JKY6GuqLKBHRCNAxkWAX7pvMNBDSW558jeJmjg"
+      "data": "12ZV4bf22Ej6VKWy2QeY6mi6neU1q6UpapLrF8uM5MzZdhXbNee"
     },
-    "lastUpdated": "2019-04-29T18:35:29.057Z",
+    "lastUpdated": "2019-04-29T18:45:09.347Z",
     "nrComments": 0,
     "nrNotes": 0,
     "nrFlashcards": 0,
@@ -202,81 +206,6 @@
       "readingProgress": {},
       "pageInfo": {
         "num": 11
-      }
-    },
-    "12": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 12
-      }
-    },
-    "13": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 13
-      }
-    },
-    "14": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 14
-      }
-    },
-    "15": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 15
-      }
-    },
-    "16": {
-      "pagemarks": {},
-      "notes": {},
-      "comments": {},
-      "questions": {},
-      "flashcards": {},
-      "textHighlights": {},
-      "areaHighlights": {},
-      "screenshots": {},
-      "thumbnails": {},
-      "readingProgress": {},
-      "pageInfo": {
-        "num": 16
       }
     }
   }
