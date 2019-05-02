@@ -1,0 +1,65 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "ebpf": {
+        "id": "ebpf",
+        "label": "ebpf"
+      },
+      "linux": {
+        "id": "linux",
+        "label": "linux"
+      },
+      "system_call": {
+        "id": "system_call",
+        "label": "system_call"
+      },
+      "detection": {
+        "id": "detection",
+        "label": "detection"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "12bPM2pjiGvCeovpqSnb",
+    "added": "2019-04-01T18:11:53.338Z",
+    "filename": "18KungCBMH-Exploring_eBPF__IO_Visor_and_Beyond___IO_Visor_Pro.phz",
+    "uuid": "z2019-04-01T18:12:16.490Z+000007-494233895585",
+    "title": "Exploring eBPF, IO Visor and Beyond - IO Visor Project",
+    "url": "https://www.iovisor.org/blog/2016/04/12/exploring-ebpf-io-visor-and-beyond",
+    "lastUpdated": "2019-04-01T18:12:16.490Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 6971
+        }
+      }
+    }
+  }
+}

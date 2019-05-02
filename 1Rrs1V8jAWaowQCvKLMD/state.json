@@ -1,0 +1,62 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "library_operating_system": {
+        "id": "library_operating_system",
+        "label": "library_operating_system"
+      },
+      "operating_system": {
+        "id": "operating_system",
+        "label": "operating_system"
+      },
+      "sigarch": {
+        "id": "sigarch",
+        "label": "sigarch"
+      }
+    },
+    "attachments": {},
+    "nrPages": 1,
+    "fingerprint": "1Rrs1V8jAWaowQCvKLMD",
+    "added": "2019-04-29T18:40:04.106Z",
+    "filename": "1Hw6xy5M7V-Leave_your_OS_at_home__the_rise_of_library_operati.phz",
+    "uuid": "z2019-04-29T18:40:44.303Z+000025-467668467635",
+    "title": "Leave your OS at home: the rise of library operating systems | SIGARCH",
+    "url": "https://www.sigarch.org/leave-your-os-at-home-the-rise-of-library-operating-systems/",
+    "lastUpdated": "2019-04-29T18:40:44.303Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 7474
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "network_security": {
+        "id": "network_security",
+        "label": "network_security"
+      },
+      "SDN": {
+        "id": "SDN",
+        "label": "SDN"
+      },
+      "security": {
+        "id": "security",
+        "label": "security"
+      },
+      "virtualization": {
+        "id": "virtualization",
+        "label": "virtualization"
+      }
+    },
+    "attachments": {},
+    "nrPages": 1,
+    "fingerprint": "12QiKX1FUSTVJchyFZBn",
+    "added": "2019-04-29T18:38:35.429Z",
+    "filename": "1UZVR8Ytq6-Securing_Self_Virtualizing_Ethernet_Devices___USEN.phz",
+    "uuid": "z2019-04-29T18:39:20.522Z+000024-467668467635",
+    "title": "Securing Self-Virtualizing Ethernet Devices | USENIX",
+    "url": "https://www.usenix.org/node/190903",
+    "lastUpdated": "2019-04-29T18:39:20.522Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 3100
+        }
+      }
+    }
+  }
+}

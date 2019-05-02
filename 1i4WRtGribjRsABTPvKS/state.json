@@ -1,0 +1,58 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "management": {
+        "id": "management",
+        "label": "management"
+      },
+      "engineering": {
+        "id": "engineering",
+        "label": "engineering"
+      }
+    },
+    "attachments": {},
+    "nrPages": 1,
+    "fingerprint": "1i4WRtGribjRsABTPvKS",
+    "added": "2019-04-29T18:36:01.028Z",
+    "filename": "1QDCRGPxVJ-44_engineering_management_lessons___defmacro.phz",
+    "uuid": "z2019-04-29T18:36:24.926Z+000023-467668467635",
+    "title": "44 engineering management lessons | defmacro",
+    "url": "http://www.defmacro.org/2014/10/03/engman.html",
+    "lastUpdated": "2019-04-29T18:36:24.926Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 0,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 0
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1,
+        "dimensions": {
+          "width": 750,
+          "height": 3211
+        }
+      }
+    }
+  }
+}
